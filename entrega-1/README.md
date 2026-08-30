@@ -30,7 +30,7 @@ estima **130 horas** de trabajo, alrededor de 43 por integrante.
 
 | Archivo | Descripción |
 | --- | --- |
-| [`propuesta-general-grupo-cerberus.docx`](propuesta-general-grupo-cerberus.pdf) | Documento completo de la entrega |
+| [`propuesta-general-grupo-cerberus.pdf`](propuesta-general-grupo-cerberus.pdf) | Documento completo de la entrega |
 | [`sitemap.svg`](sitemap.svg) | Sitemap — fuente vectorial editable |
 | [`sitemap.png`](sitemap.png) | Sitemap exportado, tal como se incrusta en el documento |
 
